@@ -12,7 +12,7 @@ Proyecto académico desarrollado en la asignatura **Análisis y Diseño de Siste
 - **Daniel Fernando Pinto Sabogal**
 
 **Profesora:** Tatiana Lizbeth Cabrera Vargas  
-**Fecha:** Octubre de 2025  
+**Fecha:** Noviembre 2025  
 
 ---
 
